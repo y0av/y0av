@@ -1,8 +1,8 @@
 <h1 align="center">🐱‍🐉 Hi, I'm Yoav</h1>
 <h3 align="center">Freelance CTO/Lead developer</h3>
 <div align="center">
-<img src ="https://github-readme-stats-git-main-y0avs-projects.vercel.app/api?username=y0av&theme=codeSTACKr&show_icons=true" height="220">
-<img src ="https://github-readme-stats-git-main-y0avs-projects.vercel.app/api/top-langs/?username=y0av&theme=codeSTACKr&langs_count=10&layout=compact&card_width=330" height="220">
+<img src ="https://github-readme-stats-git-main-y0avs-projects.vercel.app/api?username=y0av&theme=codeSTACKr&show_icons=true" height="200">
+<img src ="https://github-readme-stats-git-main-y0avs-projects.vercel.app/api/top-langs/?username=y0av&theme=codeSTACKr&langs_count=10&layout=compact&card_width=330" height="200">
 </div>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
