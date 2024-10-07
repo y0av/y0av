@@ -4,7 +4,7 @@
 <img src ="https://github-readme-stats-git-main-y0avs-projects.vercel.app/api?username=y0av&theme=codeSTACKr&show_icons=true" height="200">
 <img src ="https://github-readme-stats-git-main-y0avs-projects.vercel.app/api/top-langs/?username=y0av&theme=codeSTACKr&langs_count=10&layout=compact&card_width=330" height="200">
 </div>
-<hr>
+<hr style="height:1px;">
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
